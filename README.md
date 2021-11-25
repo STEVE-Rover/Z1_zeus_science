@@ -1,3 +1,4 @@
+# DEPRECATED
 # zeus_science
 
 ![](imgs/science.png)
